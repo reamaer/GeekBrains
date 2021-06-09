@@ -19,10 +19,13 @@ public class HomeWorkApp {
         int b;
 
         if (a + b >= 0) {
-            else {
-                System.out.println("Сумма Отрицательная");
-            }
+            System.out.println("Сумма Положительная");
+
+        else
+            System.out.println("Сумма Отрицательная");
         }
+
+
     }
 
 
